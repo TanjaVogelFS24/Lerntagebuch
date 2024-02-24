@@ -1,7 +1,7 @@
 ---
-title: Lerntagebuch
+title: Lerntagebuch für das Modul "BAIN"
 ---
 
 ## Willkommen zu meinem Lerntagebuch
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Hier dokumentiere ich meinen Leistungsnachweis für das Modul "Bibliotheks- und Archivinformatik".
